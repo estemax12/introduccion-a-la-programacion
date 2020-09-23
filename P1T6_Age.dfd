@@ -1,0 +1,53 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+61
+'P1T6 compare birth of two person, maker Cesar Esteban Gaona'
+4
+1
+42
+'input the year of birth of first person' 
+5
+1
+6
+year_A
+4
+1
+43
+'input the year of birth of second person' 
+5
+1
+6
+year_B
+7
+0
+1
+15
+year_A = year_B
+7
+1
+1
+15
+year_A > year_B
+4
+1
+60
+'the person A (' ,year_B, ')is older that B (',year_A, ') ' 
+13
+4
+1
+60
+'the person A (' ,year_A, ')is older that B (',year_B, ') ' 
+13
+13
+4
+1
+53
+'the two people are the same age', year_A,'=', year_B
+13
+1

@@ -1,0 +1,52 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+55
+'P1T23  Odd numbers from N1 to N2 maker: Esteban Gaona'
+4
+1
+24
+'input the first number'
+5
+1
+2
+N1
+4
+1
+23
+'input the last number'
+5
+1
+2
+N2
+8
+1
+1
+i
+1
+2
+N1
+1
+2
+N2
+1
+1
+1
+7
+0
+1
+11
+i MOD 2 = 0
+4
+1
+19
+i,' is odd number' 
+13
+13
+10
+1

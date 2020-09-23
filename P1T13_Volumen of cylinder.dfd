@@ -1,0 +1,37 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+51
+'P1t13 Volumen _clinder maker: Cesar esteban gaona'
+4
+1
+18
+'input the radius'
+5
+1
+6
+Radius
+4
+1
+18
+'Input the height'
+5
+1
+6
+Height
+6
+1
+7
+Volumen
+24
+3.1416*(radius*2)*height
+4
+1
+37
+'the volumen of cilinder es:',volumen
+1

@@ -1,0 +1,67 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+53
+'systolic pressure algorithm for Cesar Esteban Gaona'
+4
+1
+29
+'imput the systolic pressure'
+5
+1
+8
+systolic
+7
+0
+1
+11
+systolic<=0
+7
+0
+1
+14
+systolic <=120
+7
+0
+1
+32
+systolic >120 and systolic < 160
+7
+0
+1
+33
+systolic >=140 and systolic <=159
+4
+1
+26
+you are go to the hospital
+13
+4
+1
+22
+'you are hipertensive'
+13
+13
+4
+1
+22
+'you are hypertensive'
+13
+13
+4
+1
+16
+'you are normal'
+13
+13
+4
+1
+14
+'you are Dead'
+13
+1

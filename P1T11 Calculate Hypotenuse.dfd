@@ -1,0 +1,29 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+60
+'P1T10 calculate the hypotenuse for the Cesar Esteban Gaona'
+4
+1
+61
+'Calculate the hypotenuse of a triangule_Cateto1 and Cateto2'
+5
+1
+6
+ C1,C2
+6
+1
+1
+C
+17
+sqrt(C1*C1+C2*C2)
+4
+1
+23
+'The hypotenuse is:', C
+1

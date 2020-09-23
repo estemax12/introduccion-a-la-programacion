@@ -1,0 +1,78 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+50
+'P1T12 Age the person for the Cesar Esteban Gaona'
+4
+1
+15
+'input the Age'
+5
+1
+3
+Age
+7
+1
+1
+6
+Age <1
+4
+1
+7
+'ERROR'
+13
+7
+0
+1
+7
+Age < 6
+7
+0
+1
+8
+Age < 18
+7
+0
+1
+8
+Age < 45
+7
+0
+1
+8
+Age < 90
+4
+1
+11
+'matusalen'
+13
+4
+1
+17
+'the older adult'
+13
+13
+4
+1
+12
+'Is a Adult'
+13
+13
+4
+1
+17
+'Is a adolescent'
+13
+13
+4
+1
+12
+'Is a child'
+13
+13
+1

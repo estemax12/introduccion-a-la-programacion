@@ -1,0 +1,61 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+67
+'This algorithm created by Esteban Gaona for pay point supermarket'
+4
+1
+27
+'First supermarket product'
+5
+1
+2
+P1
+4
+1
+37
+'Second product from the supermarket'
+5
+1
+2
+P2
+4
+1
+27
+'Third supermarket product'
+5
+1
+2
+P3
+4
+1
+28
+'Fourth supermarket product'
+5
+1
+2
+P4
+6
+3
+3
+sum
+11
+P1+P2+P3+P4
+3
+iva
+9
+ sum*0.19
+5
+Total
+7
+sum+iva
+4
+1
+67
+'the sumatory is:$ ',sum, '  IVA19%:  ',iva, ' total bill: ' ,Total
+1

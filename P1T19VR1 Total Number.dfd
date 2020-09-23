@@ -1,0 +1,29 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+57
+'P1T19 Sum and average for 4 numbers maker:Esteban Gaona'
+5
+1
+11
+N1,N2,N3,N4
+6
+2
+3
+Sum
+11
+N1+N2+N3+N4
+7
+Average
+5
+Sum/4
+4
+1
+54
+'the sumatory is', sum, 'and the average is' ,,average
+1

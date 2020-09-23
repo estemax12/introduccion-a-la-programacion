@@ -1,0 +1,52 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+59
+'P1T16 Calendar maker:Esteban Gaona imput the month number'
+5
+1
+5
+Month
+7
+0
+1
+21
+Month< 1 OR Month> 12
+7
+0
+1
+10
+Month = 2 
+7
+0
+1
+48
+Month= 4 or Month = 6 or Month = 9 or Month = 11
+4
+1
+32
+'This Month has Thirty-One Days'
+13
+4
+1
+28
+'This Month has Thirty Days'
+13
+13
+4
+1
+34
+'This month has twenty eight days'
+13
+13
+4
+1
+34
+'ERROR: This month Does Not Exist'
+13
+1

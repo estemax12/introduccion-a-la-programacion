@@ -1,0 +1,25 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+82
+'P1T10 Semester Grades for the Cesar Esteban Gaona imput the grades: N1_N2,_N3_N4'
+5
+1
+11
+N1_N2_N3_N4
+6
+1
+5
+Total
+37
+(N1*0.2) (N2*0.25) (N3*0.25) (N4*0.3)
+4
+1
+37
+'The total grade semester is ', Total
+1
